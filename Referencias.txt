@@ -1,0 +1,7 @@
+# Referencias
+
+http://localhost/dashboard/phpinfo.php
+
+https://codeigniter.com/
+
+https://codeigniter.com/user_guide/index.html
