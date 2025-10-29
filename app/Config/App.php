@@ -15,6 +15,7 @@ class App extends BaseConfig
      *
      * E.g., http://example.com/
      */
+    //  Establecer la URL base
     // public string $baseURL = 'http://localhost:8080/';
     public string $baseURL = 'http://localhost/docs/Codigo-Divertido/Curso-de-CodeIgniter-4/codeigniter4-framework/public/';
     // http://localhost/docs/Codigo-Divertido/Curso-de-CodeIgniter-4/codeigniter4-framework/public/
@@ -134,6 +135,7 @@ class App extends BaseConfig
      * @see https://www.php.net/manual/en/timezones.php for list of timezones
      *      supported by PHP.
      */
+    //  ESsablecer zona horaria
     // public string $appTimezone = 'UTC';
     public string $appTimezone = 'America/Puerto_Rico';
 
